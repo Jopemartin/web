@@ -1,0 +1,100 @@
+#body1 {
+    background-image:url(https://chupacdn.s3.amazonaws.com/catalog/product/cache/5/thumbnail/1280x/17f82f742ffe127f42dca9de82fb58b1/m/o/mountain-game-background-8133_imgs_8133.png) ;
+   background-color: cornsilk;
+   background-repeat: no-repeat;
+   background-size: 200%;
+   
+   
+   
+
+}
+#tabela1{
+margin-top: 100px;
+margin-left: 500px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 30px;
+font-style: oblique;
+
+
+}
+
+.referencia1 {
+    margin-left: 50px;
+}
+
+.referencia2 {
+    margin-left: 1600px;
+
+}
+#imagem1 { 
+    width: 50%; 
+    
+}
+
+#imagem2 {
+    margin-top: -300px;
+    margin-left: 1000px;
+width: 40%;
+
+}
+
+#texto1{
+    font-family: Arial, Helvetica, sans-serif;
+   font-size: 20px;
+   font-style: oblique;
+}
+
+.ca1 {
+    border-width: 1px;
+    border-style: solid;
+    border-color:black;
+    background-color: white;
+    padding-right: 50px;
+    padding-left: 50px;
+
+}
+
+.ca2{
+    border-width: 1px;
+    border-style: solid;
+    border-color:black;
+    background-color: white;
+    padding: 50px;
+
+}
+
+.ca3{
+    border-width: 1px;
+    border-style: solid;
+    border-color:black;
+    background-color: white;
+    padding: 50px;
+
+}
+#body2{
+    background-image:url(https://chupacdn.s3.amazonaws.com/catalog/product/cache/5/thumbnail/1280x/17f82f742ffe127f42dca9de82fb58b1/m/o/mountain-game-background-8133_imgs_8133.png) ;
+
+
+}
+#titulo2{
+    margin-left: 750px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-style: oblique;
+    
+}
+#paragrafopag2{
+    margin-left: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-style: oblique;
+
+}
+#imagempag2{
+    margin-left: 500px;
+}
+
+#body3{
+    background-image:url(https://chupacdn.s3.amazonaws.com/catalog/product/cache/5/thumbnail/1280x/17f82f742ffe127f42dca9de82fb58b1/m/o/mountain-game-background-8133_imgs_8133.png) ;
+
+}
